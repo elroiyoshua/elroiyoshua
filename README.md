@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+My name is **Elroi Yoshua**.
+I am a Student of Informatics Engineering at **Telkom University**\
+Connect with me at [Linkedin](https://www.linkedin.com/in/elroi-yoshua-46120b219/)
 <!--
 **elroiyoshua/elroiyoshua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
