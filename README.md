@@ -4,7 +4,7 @@ My name is **Elroi Yoshua**.
 I am a Student of Informatics Engineering at **Telkom University**
 
 ### Reach me on
-- <a href="https://www.linkedin.com/in/elroi-yoshua-46120b219/">LinkedIn</a>
+- <a href="https://www.linkedin.com/in/elroi-yoshua/">LinkedIn</a>
 - elroiyoshua@gmail.com
 - <a href="https://www.instagram.com/elroiyoshua/">Instagram</a>
 
