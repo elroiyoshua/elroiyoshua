@@ -2,6 +2,7 @@
 
 My name is **Elroi Yoshua**.
 I am a Student of Informatics Engineering at **Telkom University**
+<br>
 I am interested in Software Engineering especially in Mobile Development & Web Development. I already make several projects and I still learn and want to make more projects in the future. And I am a hardworking person, and can work both individual or group.
 
 ### Reach me on
