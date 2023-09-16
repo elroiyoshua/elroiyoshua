@@ -11,10 +11,11 @@ I am interested in Software Engineering especially in Mobile Development & Web D
 - <a href="https://www.instagram.com/elroiyoshua/">Instagram</a>
 
 <h3 align="left">Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
-<!--    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://www.cdnlogo.com/logos/v/83/vs-code.svg" alt="VSCode" width="40" height="40"/> </a>  -->
+<p align="left"> 
+<!--    <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>  -->
+   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://www.cdnlogo.com/logos/v/83/vs-code.svg" alt="VSCode" width="40" height="40"/> </a> 
    <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"> <img src="https://www.cdnlogo.com/logos/a/36/android-studio.svg" alt="" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+<!--   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> -->
 
 <h3 align="left">Languages:</h3>
   <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="linux" width="40" height="40"/> </a> 
