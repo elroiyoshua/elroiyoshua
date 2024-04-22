@@ -9,6 +9,7 @@ I am interested in Software Engineering especially in Mobile Application Develop
 - <a href="https://www.linkedin.com/in/elroi-yoshua/">LinkedIn</a>
 - elroiyoshua@gmail.com
 - <a href="https://www.instagram.com/elroiyoshua/">Instagram</a>
+- <a href="https://github.com/elroiyoshua15">Other Github Account</a>
 
 <h3 align="left">Tools:</h3>
 <p align="left"> 
