@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 My name is **Elroi Yoshua**.
-I am an Android Programmer at **PT Sakalaguna Semesta**
+I am a Mobile Developer
 <br>
 I am interested in Software Engineering especially in Mobile Application Development & Website Development. I already make several projects and I still learn and want to make more projects in the future. And I am a hardworking person, and can work both individual or group.
 
